@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "android-hide-actionbar-and-statusbar"
